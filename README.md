@@ -56,12 +56,12 @@ cd android
 Notes:
 
 - The Android Gradle Plugin and Gradle wrapper in this repo are set to
-	versions compatible with modern JDKs (AGP 8.9.1, Gradle 8.12). If you
-	upgrade AGP or Gradle in future, verify compatibility with Java 21.
+  versions compatible with modern JDKs (AGP 8.9.1, Gradle 8.12). If you
+  upgrade AGP or Gradle in future, verify compatibility with Java 21.
 - Android Studio: set the IDE JDK to the installed JDK 21 in
-	Preferences → Build, Execution, Deployment → Build Tools → Gradle
-	(or Settings → Build Tools → Gradle) and set Gradle JVM to Java 21 if
-	desired.
+  Preferences → Build, Execution, Deployment → Build Tools → Gradle
+  (or Settings → Build Tools → Gradle) and set Gradle JVM to Java 21 if
+  desired.
 
 If you need help running the build or see compatibility errors, paste the
 Gradle output here and I'll help diagnose.
