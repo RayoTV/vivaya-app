@@ -1,0 +1,44 @@
+{
+  "app.name": "VIVAYA",
+  "setup.title": "Set up your profile",
+  "goal.gain": "Weight Gain",
+  "goal.loss": "Weight Loss",
+  "goal.maintain": "Weight Maintain",
+  "level.beginner": "Beginner",
+  "level.intermediate": "Intermediate",
+  "level.advanced": "Advanced",
+  "tab.meals": "Meals",
+  "tab.workouts": "Workouts",
+  "btn.watch": "Watch how",
+  "btn.start": "Start now",
+  "msg.no_repeat": "We won’t repeat a meal for 6–8 weeks",
+  "profile.name": "Full name",
+  "profile.age": "Age",
+  "profile.height": "Height (cm)",
+  "profile.weight": "Current weight (kg)",
+  "profile.target_weight": "Target weight (kg)",
+  "profile.level": "Experience level",
+  "profile.goal": "Goal",
+
+  "filters.title": "Food Preferences",
+  "filters.halal": "Halal",
+  "filters.vegetarian": "Vegetarian",
+  "filters.vegan": "Vegan",
+  "filters.gluten_free": "Gluten-free",
+  "filters.dairy_free": "Dairy-free",
+  "filters.nut_free": "Nut-free",
+  "filters.no_red_meat": "No red meat",
+
+  "units.cm": "Centimeter",
+  "units.in": "Inch",
+  "units.kg": "Kilogram",
+  "units.lb": "Pound",
+  "units.kcal": "kcal",
+  "units.kJ": "kJ",
+
+  "accessibility.font_scale": "Font scale",
+  "accessibility.sparkle": "Sparkle effect",
+
+  "msg.safety.surface": "Ensure the surface is stable and safe before you start."
+
+}

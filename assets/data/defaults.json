@@ -1,0 +1,14 @@
+{
+  "ratios": { "protein_pct": 0.2, "carb_pct": 0.55, "fat_pct": 0.25 },
+  "colors": { "primary":"#E91E63", "secondary":"#9C27B0" },
+  "no_repeat_weeks": 8,
+  "theme": {
+    "primary_gradient": ["#E91E63","#9C27B0"],
+    "sparkle_opacity": 0.08
+  },
+  "accessibility": {
+    "min_font_scale": 1.0,
+    "max_font_scale": 1.4,
+    "high_contrast": false
+  }
+}

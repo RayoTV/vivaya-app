@@ -1,0 +1,44 @@
+{
+  "app.name": "VIVAYA",
+  "setup.title": "إعداد بياناتك",
+  "goal.gain": "زيادة الوزن",
+  "goal.loss": "تقليل الوزن",
+  "goal.maintain": "تثبيت الوزن",
+  "level.beginner": "مبتدئ",
+  "level.intermediate": "متوسط",
+  "level.advanced": "محترف",
+  "tab.meals": "الوجبات",
+  "tab.workouts": "التمارين",
+  "btn.watch": "شاهدي الطريقة",
+  "btn.start": "ابدئي الآن",
+  "msg.no_repeat": "لن نكرر نفس الوجبة قبل 6–8 أسابيع",
+  "profile.name": "الاسم الكامل",
+  "profile.age": "العمر",
+  "profile.height": "الطول (سم)",
+  "profile.weight": "الوزن الحالي (كجم)",
+  "profile.target_weight": "الوزن المستهدف (كجم)",
+  "profile.level": "مستوى الخبرة",
+  "profile.goal": "الهدف",
+
+  "filters.title": "تفضيلات الطعام",
+  "filters.halal": "حلال",
+  "filters.vegetarian": "نباتي",
+  "filters.vegan": "نباتي صرف",
+  "filters.gluten_free": "خالٍ من الغلوتين",
+  "filters.dairy_free": "خالٍ من الألبان",
+  "filters.nut_free": "خالٍ من المكسرات",
+  "filters.no_red_meat": "بدون لحم أحمر",
+
+  "units.cm": "سنتيمتر",
+  "units.in": "إنش",
+  "units.kg": "كيلوغرام",
+  "units.lb": "رطل",
+  "units.kcal": "سعرة حرارية",
+  "units.kJ": "كيلوجول",
+
+  "accessibility.font_scale": "مقياس الخط",
+  "accessibility.sparkle": "تأثير البريق",
+
+  "msg.safety.surface": "تأكدي أن السطح ثابت وآمن قبل البدء."
+
+}

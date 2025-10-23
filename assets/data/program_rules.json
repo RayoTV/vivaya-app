@@ -1,0 +1,26 @@
+{
+  "weekly_structure": {
+    "loss": ["cardio_steady","upper_light","hiit_low","active_recovery","lower_light","cardio_steady","rest"],
+    "gain": ["chest_biceps","legs","back_triceps","active_recovery","shoulders_core","full_body","rest"],
+    "maintain": ["cardio_mod","upper","rest","lower","cardio_light","bodyweight_balance","rest"]
+  },
+  "session_time_min": 30,
+  "rotate_weeks_by_muscle": true,
+  "no_repeat_meal_weeks": 8,
+  "no_repeat_angle_weeks": 2,
+  "deload_every_4th_week": true,
+  "deload_drop_percent": 0.25,
+  "progression_if_adherent_2_weeks": 0.07,
+  "monthly_cycle_logic": "use isoWeekOfYear(today) -> cycle = ((week-1) // 4) % 3 -> templates A/B/C; week 4 of month is deload",
+  "filters":{
+  "diet":["halal","vegetarian","vegan","gluten_free","dairy_free","nut_free","no_red_meat"],
+  "apply_filters": true
+},
+"unit_settings":{
+  "length":["cm","in"],
+  "weight":["kg","lb"],
+  "energy":["kcal","kJ"],
+  "default":{"length":"cm","weight":"kg","energy":"kcal"}
+}
+
+}

@@ -1,0 +1,82 @@
+{
+  "morning": {
+    "ar": [
+      "صباح النشاط يا بطلة! ✨ تمرين اليوم بانتظارك.",
+      "ابدئي بكوب ماء 💧 وطاقتك تصير أعلى!",
+      "صباح الخير! حددي نيتك لليوم وتمتعي بالتحرك.",
+      "ابتسمي، كل خطوة صغيرة مهمة 💕",
+      "اليوم لكِ — خوضي لحظتك بأمان وقوة 🌸"
+    ],
+    "en": [
+      "Good morning, champ! ✨ Your workout is ready.",
+      "Start with a glass of water 💧 for better energy!",
+      "Morning! Set your intention and enjoy moving.",
+      "Shine today — small wins add up 💖",
+      "Today is yours — move with grace and power 🌸"
+    ]
+  },
+  "pre_meal": {
+    "ar": [
+      "اختاري وجبتك الذكية الآن 🍽️ جسمك يشكرك لاحقًا.",
+      "اختيار صحي اليوم = إحساس أفضل غدًا 🌱",
+      "قليل من التخطيط يفعل العجائب ✅",
+      "وجبة متوازنة = طاقة مستمرة طوال اليوم ✨",
+      "تذكير لطيف: ابدئي بطبق خضار صغير"
+    ],
+    "en": [
+      "Pick a smart meal now 🍽️ your body will thank you later.",
+      "Healthy choices today = better feeling tomorrow 🌱",
+      "A little planning goes a long way ✅",
+      "Balanced plate = steady energy all day ✨",
+      "A gentle nudge: start with a small veg plate"
+    ]
+  },
+  "post_workout": {
+    "ar": [
+      "تمرين اليوم ✅ فخر يومي! استمري 💪",
+      "جسدك قوي بفضل قرارك اليومي ✨",
+      "استردّي قوتك مع شربة ماء وراحة قصيرة 💧",
+      "كل جلسة تقربك من هدفك — بفخر! 🌟",
+      "حسِّي بالإنجاز واحتفلي بخطوة صغيرة"
+    ],
+    "en": [
+      "Workout ✅ Proud of you! Keep going 💪",
+      "Your body is stronger because of today’s choice ✨",
+      "Refuel with water and a short rest 💧",
+      "Each session brings you closer — celebrate small wins! 🌟",
+      "Feel the accomplishment and honor the little step"
+    ]
+  },
+  "water": {
+    "ar": [
+      "هيدريشن تشيك ✅ اشربي كوب ماء الآن 💧",
+      "لا تنسي شرب الماء للحفاظ على الأداء.",
+      "كل رشفة تقربك من أهدافك 💦",
+      "رشفة الآن = تركيز أفضل خلال التمرين ✨",
+      "تذكّرِ نفسك بلطف: شربي قليلاً كل ساعة"
+    ] ,
+    "en": [
+      "Hydration check ✅ take a sip now 💧",
+      "Don’t forget water to keep performance up.",
+      "Every sip gets you closer to your goals 💦",
+      "A sip now = sharper focus during your session ✨",
+      "A gentle reminder: sip a little each hour"
+    ]
+  },
+  "evening": {
+    "ar": [
+      "أحسنتِ اليوم 💫 تنفّسي واسترخي لنوم هادئ.",
+      "فخورة بجهدك اليوم — استرخي وأعيدي الشحن 🌙",
+      "غداً يوم جديد وفرصة جديدة للتمكن 💕",
+      "انهي يومك بابتسامة — كل شيء يتقدم ببطء لكن بثبات 🌟",
+      "استعدّي لنوم مريح بنشاط هادئ قبل النوم"
+    ],
+    "en": [
+      "Great job today 💫 breathe and enjoy a calm sleep.",
+      "Proud of your effort — relax and recharge 🌙",
+      "Tomorrow is a fresh chance to shine again 💕",
+      "End your day with a smile — progress is gentle but steady 🌟",
+      "Prepare for a restful sleep with a calming pre-bed ritual"
+    ]
+  }
+}
