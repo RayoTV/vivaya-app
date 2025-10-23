@@ -1,0 +1,1363 @@
+[
+  {
+    "name": {
+      "ar": "سكوات",
+      "en": "Squat / Goblet Squat"
+    },
+    "group": "lower",
+    "muscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون/دمبل اختياري",
+      "en": "None/Optional Dumbbell"
+    },
+    "how_to": {
+      "ar": [
+        "قفي وقدماك بعرض الكتفين.",
+        "دَفْع الورك للخلف والحفاظ على ظهر مستقيم وصدر مرفوع.",
+        "انزلي حتى توازي الفخذان الأرض.",
+        "ادفعي بمنتصف القدم للعودة إلى الوقوف.",
+        "شهيق نزول، زفير صعود."
+      ],
+      "en": [
+        "Feet shoulder-width apart.",
+        "Hinge hips back, keep chest up and back neutral.",
+        "Descend until thighs are parallel.",
+        "Drive through mid-foot to stand up.",
+        "Inhale down, exhale up."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "انهيار الركبتين للداخل",
+        "تقوّس أسفل الظهر"
+      ],
+      "en": [
+        "Knees cave in",
+        "Lower back rounding"
+      ]
+    },
+    "regression": {
+      "ar": "Squat إلى كرسي ثابت",
+      "en": "Box Squat to chair"
+    },
+    "progression": {
+      "ar": "Jump Squat / Bulgarian",
+      "en": "Jump Squat / Bulgarian"
+    },
+    "youtube_queries": {
+      "ar": [
+        "سكوات بالبيت للمبتدئين الطريقة الصحيحة",
+        "سكوات منزلي"
+      ],
+      "en": [
+        "Goblet Squat at home proper form",
+        "Squat proper form tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender",
+      "https://www.youtube.com/@ATHLEANX",
+      "https://www.youtube.com/@HASfit"
+    ],
+    "safety": {
+      "ar": "تأكدي أن السطح ثابت وآمن عند استخدام كرسي/طاولة.",
+      "en": "Ensure surface is stable and secure when using chair/table."
+    },
+    "id": "exercises_home_item_1"
+  },
+  {
+    "name": {
+      "ar": "Bulgarian Split Squat (كرسي)",
+      "en": "Bulgarian Split Squat (Chair)"
+    },
+    "group": "lower",
+    "muscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "كرسي",
+      "en": "Chair"
+    },
+    "how_to": {
+      "ar": [
+        "ضعي قدمًا خلفية على كرسي.",
+        "انزلي بساق الأمامية حتى زاوية 90 درجة.",
+        "ادفعي لأعلى بالقدم الأمامية."
+      ],
+      "en": [
+        "Place rear foot on chair.",
+        "Lower front leg to ~90 degrees.",
+        "Drive up through front foot."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "ميلان الجسم",
+        "وضع قدم غير ثابت"
+      ],
+      "en": [
+        "Torso lean",
+        "Unstable foot placement"
+      ]
+    },
+    "regression": {
+      "ar": "Split squat عادي",
+      "en": "Regular split squat"
+    },
+    "progression": {
+      "ar": "دمبل إضافي",
+      "en": "Add dumbbell"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Bulgarian split squat بالكرسي للمبتدئين"
+      ],
+      "en": [
+        "Bulgarian split squat at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "safety": {
+      "ar": "تأكدي أن الكرسي ثابت وآمن.",
+      "en": "Ensure the chair is stable and secure."
+    },
+    "id": "exercises_home_item_2"
+  },
+  {
+    "name": {
+      "ar": "Glute Bridge",
+      "en": "Glute Bridge / Hip Thrust"
+    },
+    "group": "lower",
+    "muscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "أرض/أريكة",
+      "en": "Floor/sofa"
+    },
+    "how_to": {
+      "ar": [
+        "استلقي على ظهرك واثني الركبتين.",
+        "ادفعي الوركين لأعلى حتى خط مستقيم من الركبة إلى الكتف.",
+        "اشعري بالشد في الأرداف ثم انزلي ببطء."
+      ],
+      "en": [
+        "Lie on back, knees bent.",
+        "Drive hips up until body forms a line from knees to shoulders.",
+        "Squeeze glutes and lower slowly."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "رفع رقبة/ظهر عالياً",
+        "لا تحريك الأرداف"
+      ],
+      "en": [
+        "Overextending neck/back",
+        "Not engaging glutes"
+      ]
+    },
+    "regression": {
+      "ar": "Glute bridge منخفض المدى",
+      "en": "Partial bridge"
+    },
+    "progression": {
+      "ar": "Single leg glute bridge",
+      "en": "Single leg glute bridge"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Glute bridge للمبتدئين في البيت"
+      ],
+      "en": [
+        "Glute bridge at home beginner"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "safety": {
+      "ar": "تأكدي أن السطح ثابت وآمن عند وضع الأرجل على أثاث.",
+      "en": "Ensure surface is stable and secure when placing feet on furniture."
+    },
+    "id": "exercises_home_item_3"
+  },
+  {
+    "name": {
+      "ar": "Romanian Deadlift (دمبل/حبل)",
+      "en": "Romanian Deadlift (Dumbbell/Band)"
+    },
+    "group": "lower",
+    "muscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "دمبل/حبل",
+      "en": "Dumbbell/Band"
+    },
+    "how_to": {
+      "ar": [
+        "قفي مع ثني طفيف في الركبة.",
+        "انحني للأمام من الورك مع ظهر مستقيم.",
+        "ارفع الظهر مع ضغط الأرداف."
+      ],
+      "en": [
+        "Stand with slight knee bend.",
+        "Hinge at hips keeping a neutral spine.",
+        "Return upright by squeezing glutes."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "تقوّس أسفل الظهر",
+        "ركبة مفرطة الانثناء"
+      ],
+      "en": [
+        "Lower back rounding",
+        "Knee collapse"
+      ]
+    },
+    "regression": {
+      "ar": "Deadlift روماني خفيف",
+      "en": "Light Romanian deadlift"
+    },
+    "progression": {
+      "ar": "Single leg RDL",
+      "en": "Single leg RDL"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Romanian deadlift بالدمبل للمبتدئين"
+      ],
+      "en": [
+        "Romanian deadlift dumbbell form"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@ATHLEANX"
+    ],
+    "id": "exercises_home_item_4"
+  },
+  {
+    "name": {
+      "ar": "Reverse Lunge",
+      "en": "Reverse Lunge"
+    },
+    "group": "lower",
+    "muscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "خطوة للخلف بقدم واحدة.",
+        "انزل حتى ركبة الامامية 90 درجة.",
+        "ارجع للأمام ودور بالقدم الأخرى."
+      ],
+      "en": [
+        "Step back with one leg.",
+        "Lower until front knee ~90 degrees.",
+        "Push forward to return and repeat on other side."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "ميلان الركبة",
+        "خطوات قصيرة جداً"
+      ],
+      "en": [
+        "Knee drift",
+        "Too small steps"
+      ]
+    },
+    "regression": {
+      "ar": "خطوة للخلف صغيرة",
+      "en": "Shorter step back"
+    },
+    "progression": {
+      "ar": "قفز لاندنج",
+      "en": "Jumping lunge"
+    },
+    "youtube_queries": {
+      "ar": [
+        "تمرين لاندنج عكسي بالبيت"
+      ],
+      "en": [
+        "Reverse lunge proper form"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_5"
+  },
+  {
+    "name": {
+      "ar": "Calf Raise",
+      "en": "Calf Raise (step)"
+    },
+    "group": "lower",
+    "muscles": [
+      "Calves"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "درجة/حافة",
+      "en": "Step/edge"
+    },
+    "how_to": {
+      "ar": [
+        "قفي على حافة بقدميك امامية.",
+        "ادفع كعبك للأعلى ببطء ثم انزل."
+      ],
+      "en": [
+        "Stand on edge with forefoot.",
+        "Raise heels up slowly and lower down."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "اهتزاز الجسم",
+        "الضغط على الركبة"
+      ],
+      "en": [
+        "Body wobble",
+        "Knee pressure"
+      ]
+    },
+    "regression": {
+      "ar": "Calf raise على الأرض",
+      "en": "Flat ground calf raise"
+    },
+    "progression": {
+      "ar": "Single leg calf raise",
+      "en": "Single leg calf raise"
+    },
+    "youtube_queries": {
+      "ar": [
+        "تمرين ربلة الساق بالبيت"
+      ],
+      "en": [
+        "Calf raise at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "id": "exercises_home_item_6"
+  },
+  {
+    "name": {
+      "ar": "Step-Up (كرسي)",
+      "en": "Step-Up (Chair)"
+    },
+    "group": "lower",
+    "muscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "كرسي ثابت",
+      "en": "Stable chair"
+    },
+    "how_to": {
+      "ar": [
+        "اصعدي على الكرسي بجانب قدمك.",
+        "انزلي ببطء وبدّلي القدمين."
+      ],
+      "en": [
+        "Step up onto the chair leading with one foot.",
+        "Step down slowly and alternate."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "دفع بجسم كامل",
+        "سرعة هبوط"
+      ],
+      "en": [
+        "Using momentum",
+        "Fast descent"
+      ]
+    },
+    "regression": {
+      "ar": "قدس خطوة منخفضة",
+      "en": "Lower step height"
+    },
+    "progression": {
+      "ar": "قفزة على الخطوة",
+      "en": "Jump step up"
+    },
+    "youtube_queries": {
+      "ar": [
+        "تمرين step up بالكرسي"
+      ],
+      "en": [
+        "Step up at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "safety": {
+      "ar": "تأكدي أن الكرسي ثابت وآمن.",
+      "en": "Ensure the chair is stable and secure."
+    },
+    "id": "exercises_home_item_7"
+  },
+  {
+    "name": {
+      "ar": "Push-Ups",
+      "en": "Push-Ups (Knee → Regular → Decline)"
+    },
+    "group": "push",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "ابدئي على الركب ثم انتقلي إلى الكعب حسب القوة.",
+        "حافظي على خط الجسم مستقيمًا.",
+        "انزلي حتى قريب للصدر ثم ادفعي للأعلى."
+      ],
+      "en": [
+        "Start on knees progressing to toes as you get stronger.",
+        "Keep a straight body line.",
+        "Lower until near chest then push up."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "غلق المرفقين للداخل",
+        "رداءة نطاق الحركة"
+      ],
+      "en": [
+        "Elbows flaring",
+        "Poor ROM"
+      ]
+    },
+    "regression": {
+      "ar": "Push up على الركب",
+      "en": "Knee push-up"
+    },
+    "progression": {
+      "ar": "Decline/Archer",
+      "en": "Decline/Archer push-up"
+    },
+    "youtube_queries": {
+      "ar": [
+        "تمرين بوش اب للمبتدئين"
+      ],
+      "en": [
+        "Push up proper form beginner"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@ATHLEANX"
+    ],
+    "id": "exercises_home_item_8"
+  },
+  {
+    "name": {
+      "ar": "Pike Push-Up",
+      "en": "Pike Push-Up"
+    },
+    "group": "push",
+    "muscles": [
+      "Shoulders"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "ابدئي من وضع V مقلوب.",
+        "انزلي برأسك نحو الأرض ثم ادفعي لأعلى."
+      ],
+      "en": [
+        "Start in inverted V position.",
+        "Lower head towards ground then push up."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "انحناء ظهر",
+        "ضغط زائد على الرقبة"
+      ],
+      "en": [
+        "Back rounding",
+        "Neck strain"
+      ]
+    },
+    "regression": {
+      "ar": "Elevated Pike",
+      "en": "Incline Pike"
+    },
+    "progression": {
+      "ar": "Handstand push-up prep",
+      "en": "Handstand push-up prep"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Pike push up كيفية"
+      ],
+      "en": [
+        "Pike push up tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "id": "exercises_home_item_9"
+  },
+  {
+    "name": {
+      "ar": "Chair Dips",
+      "en": "Chair Dips"
+    },
+    "group": "push",
+    "muscles": [
+      "Triceps",
+      "Chest"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "كرسي",
+      "en": "Chair"
+    },
+    "how_to": {
+      "ar": [
+        "اجلسي على حافة الكرسي، حطي اليدين بجانبك.",
+        "انزلي ببطء حتى زاوية 90 درجة ثم ارفعي."
+      ],
+      "en": [
+        "Sit on edge of chair, hands beside you.",
+        "Lower slowly to ~90 deg and press up."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "انحناء الكتف",
+        "ذروة حركة قليلة"
+      ],
+      "en": [
+        "Shoulder shrug",
+        "Limited range"
+      ]
+    },
+    "regression": {
+      "ar": "Knee bent dip",
+      "en": "Bent knees dip"
+    },
+    "progression": {
+      "ar": "Feet elevated dip",
+      "en": "Feet elevated dip"
+    },
+    "youtube_queries": {
+      "ar": [
+        "تمرين chair dips الطريقة"
+      ],
+      "en": [
+        "Chair dips proper form"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "safety": {
+      "ar": "تأكدي أن الكرسي ثابت وآمن.",
+      "en": "Ensure the chair is stable and secure."
+    },
+    "id": "exercises_home_item_10"
+  },
+  {
+    "name": {
+      "ar": "DB Floor Press",
+      "en": "Dumbbell Floor Press"
+    },
+    "group": "push",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "دمبل/زجاجات",
+      "en": "Dumbbells/Water bottles"
+    },
+    "how_to": {
+      "ar": [
+        "استلقي على الأرض بدمبل في كل يد.",
+        "انزلي بالدمبل حتى تلامس الأرض ثم ادفعي للأعلى."
+      ],
+      "en": [
+        "Lie on floor with dumbbells.",
+        "Lower until elbows touch floor, press up."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "قوس في الظهر",
+        "رفع الكتف"
+      ],
+      "en": [
+        "Back arch",
+        "Shoulder shrug"
+      ]
+    },
+    "regression": {
+      "ar": "ضغط صدر بالتمارين المرنة",
+      "en": "Floor press with band"
+    },
+    "progression": {
+      "ar": "Single arm DB press",
+      "en": "Single arm DB press"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Dumbbell floor press طريقة"
+      ],
+      "en": [
+        "Dumbbell floor press tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@ATHLEANX"
+    ],
+    "id": "exercises_home_item_11"
+  },
+  {
+    "name": {
+      "ar": "Shoulder Press (دمبل)",
+      "en": "Shoulder Press (Dumbbell)"
+    },
+    "group": "push",
+    "muscles": [
+      "Shoulders"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "دمبل",
+      "en": "Dumbbells"
+    },
+    "how_to": {
+      "ar": [
+        "واقفي أو اجلسي بظهر مستقيم.",
+        "ادفعي الدمبل من مستوى الكتف إلى الأعلى.",
+        "تحكمّي في النزول."
+      ],
+      "en": [
+        "Stand or sit upright.",
+        "Press dumbbells from shoulder to overhead.",
+        "Control the descent."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "قوس في الظهر",
+        "استخدام قوة زائدة"
+      ],
+      "en": [
+        "Back arch",
+        "Using momentum"
+      ]
+    },
+    "regression": {
+      "ar": "Seated press خفيف",
+      "en": "Seated light press"
+    },
+    "progression": {
+      "ar": "Arnold press",
+      "en": "Arnold press"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Shoulder press بالدمبل في البيت"
+      ],
+      "en": [
+        "Dumbbell shoulder press at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_12"
+  },
+  {
+    "name": {
+      "ar": "Seated Row (Band)",
+      "en": "Seated Row (Band)"
+    },
+    "group": "pull",
+    "muscles": [
+      "Back",
+      "Rhomboids"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "باند",
+      "en": "Band"
+    },
+    "how_to": {
+      "ar": [
+        "اجلسي وسحبي الباند تجاه الصدر مع جذب اللوحات.",
+        "احرصي على استقامة الظهر."
+      ],
+      "en": [
+        "Sit and pull band towards chest squeezing shoulder blades.",
+        "Keep a neutral spine."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "لف الظهر",
+        "سحب بالذراع فقط"
+      ],
+      "en": [
+        "Torso rotation",
+        "Arm-only pull"
+      ]
+    },
+    "regression": {
+      "ar": "Row sentado خفيف",
+      "en": "Seated row lighter"
+    },
+    "progression": {
+      "ar": "Heavy band or single arm",
+      "en": "Stronger band/single arm"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Seated row مع باند في البيت"
+      ],
+      "en": [
+        "Seated row band tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_13"
+  },
+  {
+    "name": {
+      "ar": "Lat Pulldown (Band + Door)",
+      "en": "Lat Pulldown (Band + Door Anchor)"
+    },
+    "group": "pull",
+    "muscles": [
+      "Lats",
+      "Back"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "باند + باب",
+      "en": "Band + door anchor"
+    },
+    "how_to": {
+      "ar": [
+        "ثبت الباند في أعلى الباب بأمان.",
+        "اسحبي للأسفل مع شد الظهر."
+      ],
+      "en": [
+        "Anchor band high on door securely.",
+        "Pull down focusing on lats."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "سحب بذراع فقط",
+        "تثبيت غير آمن"
+      ],
+      "en": [
+        "Arm-only pull",
+        "Unsafe anchoring"
+      ]
+    },
+    "regression": {
+      "ar": "Pull-down منخفض",
+      "en": "Lower anchor pulldown"
+    },
+    "progression": {
+      "ar": "Single arm heavy pull",
+      "en": "Single arm heavy pull"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Lat pulldown بالباند في البيت"
+      ],
+      "en": [
+        "Lat pulldown band at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "safety": {
+      "ar": "تأكدي أن الباند مثبت وآمن في الباب.",
+      "en": "Ensure band is safely anchored in the door."
+    },
+    "id": "exercises_home_item_14"
+  },
+  {
+    "name": {
+      "ar": "Face Pull (Band)",
+      "en": "Face Pull (Band)"
+    },
+    "group": "pull",
+    "muscles": [
+      "Rear Delts",
+      "Upper Back"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "باند",
+      "en": "Band"
+    },
+    "how_to": {
+      "ar": [
+        "ثبت الباند على مستوى الوجه واسحبي مع فتح المرفقين.",
+        "شد الكتف الخلفي مع التحكم."
+      ],
+      "en": [
+        "Anchor band at face height and pull with flared elbows.",
+        "Control and squeeze rear delts."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "سحب بالذراع فقط",
+        "سرعة تنفيذ"
+      ],
+      "en": [
+        "Arm-only pull",
+        "Too fast reps"
+      ]
+    },
+    "regression": {
+      "ar": "Face pull منخفض",
+      "en": "Lower face pull"
+    },
+    "progression": {
+      "ar": "Heavier band",
+      "en": "Heavier band"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Face pull بالباند للمبتدئين"
+      ],
+      "en": [
+        "Face pull band tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@ATHLEANX"
+    ],
+    "id": "exercises_home_item_15"
+  },
+  {
+    "name": {
+      "ar": "Inverted Row",
+      "en": "Inverted Row (under table)"
+    },
+    "group": "pull",
+    "muscles": [
+      "Back",
+      "Biceps"
+    ],
+    "level": "Advanced",
+    "equipment": {
+      "ar": "طاولة قوية",
+      "en": "Strong table"
+    },
+    "how_to": {
+      "ar": [
+        "استلقي تحت طاولة قوية أمسكي الحافة واسحب صدرك للأعلى.",
+        "حافظي على جسم مستقيم."
+      ],
+      "en": [
+        "Lie under a sturdy table, hold edge and pull chest up.",
+        "Keep body straight."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "استخدام طاولة غير ثابتة",
+        "قوس للظهر"
+      ],
+      "en": [
+        "Using unstable table",
+        "Back arch"
+      ]
+    },
+    "regression": {
+      "ar": "Inverted row بزاوية أقل",
+      "en": "Incline inverted row"
+    },
+    "progression": {
+      "ar": "Feet elevated inverted row",
+      "en": "Feet elevated inverted row"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Inverted row تحت طاولة كيفية"
+      ],
+      "en": [
+        "Inverted row tutorial at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "safety": {
+      "ar": "تأكدي أن الطاولة قوية ومثبتة.",
+      "en": "Ensure table is strong and secured."
+    },
+    "id": "exercises_home_item_16"
+  },
+  {
+    "name": {
+      "ar": "Plank (أمامي)",
+      "en": "Front Plank"
+    },
+    "group": "core",
+    "muscles": [
+      "Core",
+      "Abs"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون",
+      "en": "No equipment"
+    },
+    "how_to": {
+      "ar": [
+        "استلقي على بطن وارفع على الساعدين وأصابع القدم.",
+        "حافظي على خط مستقيم من الرأس للكعب."
+      ],
+      "en": [
+        "Prop on forearms and toes.",
+        "Keep a straight line from head to heels."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "هبوط الورك",
+        "رفع الأرداف"
+      ],
+      "en": [
+        "Hip sag",
+        "Hip pike"
+      ]
+    },
+    "regression": {
+      "ar": "بلانك على الركب",
+      "en": "Knees-down plank"
+    },
+    "progression": {
+      "ar": "بلانك جانبي متقدم",
+      "en": "Advanced side plank"
+    },
+    "youtube_queries": {
+      "ar": [
+        "بلانك الطريقة الصحيحة للمبتدئين",
+        "تمرين بلانك في البيت"
+      ],
+      "en": [
+        "Plank proper form at home",
+        "Beginner plank tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "id": "exercises_home_item_17"
+  },
+  {
+    "name": {
+      "ar": "Dead Bug",
+      "en": "Dead Bug"
+    },
+    "group": "core",
+    "muscles": [
+      "Core"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "استلقي على الظهر ارفعي الساقين وافرغي متبادل طرف مقابل.",
+        "تحكمي في الحركة."
+      ],
+      "en": [
+        "Lie on back with legs up and alternate opposite arm/leg lowers.",
+        "Control the motion."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "شد الرقبة",
+        "سرعة التنفيذ"
+      ],
+      "en": [
+        "Neck strain",
+        "Too fast reps"
+      ]
+    },
+    "regression": {
+      "ar": "Dead bug محدود الحركة",
+      "en": "Partial dead bug"
+    },
+    "progression": {
+      "ar": "Weighted dead bug",
+      "en": "Weighted dead bug"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Dead bug للمبتدئين"
+      ],
+      "en": [
+        "Dead bug tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_18"
+  },
+  {
+    "name": {
+      "ar": "Bird Dog",
+      "en": "Bird Dog"
+    },
+    "group": "core",
+    "muscles": [
+      "Core",
+      "Back"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "من وضع الأربع اطرحي طرف متقابل ومديه.",
+        "حافظي على استقرار الحوض."
+      ],
+      "en": [
+        "From all-fours extend opposite arm/leg.",
+        "Keep pelvis stable."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "تحريك الحوض",
+        "سرعة"
+      ],
+      "en": [
+        "Pelvic rotation",
+        "Too quick"
+      ]
+    },
+    "regression": {
+      "ar": "Bird dog محدود",
+      "en": "Partial bird dog"
+    },
+    "progression": {
+      "ar": "Bird dog مع ثبات أطول",
+      "en": "Longer hold bird dog"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Bird dog في البيت"
+      ],
+      "en": [
+        "Bird dog tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "id": "exercises_home_item_19"
+  },
+  {
+    "name": {
+      "ar": "Hollow Hold",
+      "en": "Hollow Hold"
+    },
+    "group": "core",
+    "muscles": [
+      "Core",
+      "Abs"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "استلقي وارفعي الكتفين والساقين قليلًا مع شد البطن.",
+        "احفظي شكل القوس بثبات."
+      ],
+      "en": [
+        "Lie and lift shoulders and legs slightly while bracing core.",
+        "Hold hollow shape."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "شد الرقبة",
+        "ارتخاء البطن"
+      ],
+      "en": [
+        "Neck strain",
+        "Core collapse"
+      ]
+    },
+    "regression": {
+      "ar": "Hollow tuck",
+      "en": "Hollow tuck"
+    },
+    "progression": {
+      "ar": "Weighted hollow hold",
+      "en": "Weighted hollow"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Hollow hold للمبتدئين"
+      ],
+      "en": [
+        "Hollow hold tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@ATHLEANX"
+    ],
+    "id": "exercises_home_item_20"
+  },
+  {
+    "name": {
+      "ar": "Side Plank Hip Dips",
+      "en": "Side Plank Hip Dips"
+    },
+    "group": "core",
+    "muscles": [
+      "Obliques"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "ابدئي بجانب الجسم على الساعد.",
+        "اخفضي الورك ثم ارفعيه."
+      ],
+      "en": [
+        "Start side supported on forearm.",
+        "Lower and raise hip."
+      ]
+    },
+    "common_mistakes": {
+      "ar": [
+        "التفاف الحوض"
+      ],
+      "en": [
+        "Hip rotation"
+      ]
+    },
+    "regression": {
+      "ar": "بلانك جانبى على الركب",
+      "en": "Knee-side plank"
+    },
+    "progression": {
+      "ar": "رفع ساق",
+      "en": "Leg raise side plank"
+    },
+    "youtube_queries": {
+      "ar": [
+        "Side plank hip dips في البيت"
+      ],
+      "en": [
+        "Side plank hip dips tutorial"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_21"
+  },
+  {
+    "name": {
+      "ar": "Indoor March / Fast Walk",
+      "en": "Indoor March / Fast Walk"
+    },
+    "group": "cardio",
+    "muscles": [
+      "Cardio"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "المشي في المكان مع رفع الركبة."
+      ],
+      "en": [
+        "March in place lifting knees."
+      ]
+    },
+    "youtube_queries": {
+      "ar": [
+        "المشي في المكان تمارين"
+      ],
+      "en": [
+        "March in place workout"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_22"
+  },
+  {
+    "name": {
+      "ar": "Shadow Skipping",
+      "en": "Shadow Skipping (no rope)"
+    },
+    "group": "cardio",
+    "muscles": [
+      "Cardio"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "بدون/حبل اختياري",
+      "en": "None/Optional rope"
+    },
+    "how_to": {
+      "ar": [
+        "نط خفيف في المكان مع تحريك الذراع."
+      ],
+      "en": [
+        "Light jump in place moving arms."
+      ]
+    },
+    "youtube_queries": {
+      "ar": [
+        "نط حبل للمبتدئين في البيت"
+      ],
+      "en": [
+        "Jump rope beginner at home form"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@HASfit"
+    ],
+    "id": "exercises_home_item_23"
+  },
+  {
+    "name": {
+      "ar": "Low-Impact HIIT Circuits",
+      "en": "Low-Impact HIIT Circuits"
+    },
+    "group": "cardio",
+    "muscles": [
+      "Cardio"
+    ],
+    "level": "Intermediate",
+    "equipment": {
+      "ar": "بدون",
+      "en": "None"
+    },
+    "how_to": {
+      "ar": [
+        "مجموعة تمارين متتابعة منخفضة التأثير لمدة 10–16 دقيقة."
+      ],
+      "en": [
+        "Sequence of low-impact moves for 10–16 minutes."
+      ]
+    },
+    "youtube_queries": {
+      "ar": [
+        "HIIT منخفض التأثير في البيت"
+      ],
+      "en": [
+        "Low impact HIIT at home"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_24"
+  },
+  {
+    "name": {
+      "ar": "Jump rope (بدون حبل) تمارين",
+      "en": "Jump rope (no rope)"
+    },
+    "group": "cardio",
+    "muscles": [
+      "Cardio"
+    ],
+    "level": "Beginner",
+    "equipment": {
+      "ar": "اختياري",
+      "en": "Optional"
+    },
+    "how_to": {
+      "ar": [
+        "محاكاة نط الحبل بدون حبل."
+      ],
+      "en": [
+        "Simulate rope jumping without rope."
+      ]
+    },
+    "youtube_queries": {
+      "ar": [
+        "نط حبل بدون حبل للمبتدئين"
+      ],
+      "en": [
+        "Jump rope without rope beginner"
+      ]
+    },
+    "trusted_channels": [
+      "https://www.youtube.com/@FitnessBlender"
+    ],
+    "id": "exercises_home_item_25"
+  }
+]
